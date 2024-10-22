@@ -1,6 +1,6 @@
 function Demo() {
     return(
-        <h2>Bye bye</h2>
+        <h2>Bye Bye</h2>
     )
 }
 
